@@ -282,6 +282,10 @@ form>button {
     cursor: pointer;
     border: none;
 }
+form>button:hover {
+    background-color: var(--color6);
+    color: var(--color1);
+}
 
 
 /* ***************************************************************** */
